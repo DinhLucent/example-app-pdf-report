@@ -1,7 +1,14 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/example-app-pdf-report/main)
+# PDF-Report-Generator-Sample
 
-# 🎓 Diploma PDF Generator
+A demonstration application for generating professional PDF reports from web data. This project features template-based document generation and dynamic content embedding.
 
-A Streamlit app to show how you can easily use Streamlit to generate PDFs.
+## ┬┐ Features
+- **Template Engine**: Customizable HTML/CSS templates for report layouts.
+- **Dynamic Data**: Integration with JavaScript for real-time report generation.
+- **Automated Export**: One-click PDF generation and download.
 
-<img width="640" alt="screenshot" src="https://user-images.githubusercontent.com/7164864/141756801-172f3829-788b-4907-806f-f183c34090ad.png">
+## ┬┐ Project Structure
+- `src/`: Core logic and report templates.
+
+---
+*Created by DinhLucent - 2022 (Updated 2026)*
